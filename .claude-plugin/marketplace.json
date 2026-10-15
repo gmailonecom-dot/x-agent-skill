@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "x-agent-skill",
+  "description": "The X (Twitter) agent skill pack",
+  "owner": {
+    "name": "gmailonecom-dot",
+    "url": "https://github.com/gmailonecom-dot"
+  },
+  "plugins": [
+    {
+      "name": "x-agent",
+      "description": "Eleven agent skills that run an X account, including a scored hook panel, a first-line and media linter, a thread builder, an engagement finder and an analytics reader.",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/gmailonecom-dot/x-agent-skill"
+    }
+  ]
+}
