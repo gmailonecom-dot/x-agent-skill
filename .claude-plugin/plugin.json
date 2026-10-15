@@ -1,0 +1,22 @@
+{
+  "name": "x-agent",
+  "description": "Eleven agent skills that run an X (Twitter) account: posts off 21 hook formulas with a scored hook, a first-line and media linter, a thread builder, reply and mention triage, an engage skill that finds the accounts worth replying to, a weekly plan, an analytics reader, a repurposer, a profile scorer and an account audit.",
+  "version": "1.0.0",
+  "author": {
+    "name": "gmailonecom-dot",
+    "url": "https://github.com/gmailonecom-dot"
+  },
+  "homepage": "https://github.com/gmailonecom-dot/x-agent-skill",
+  "repository": "https://github.com/gmailonecom-dot/x-agent-skill",
+  "license": "MIT",
+  "keywords": [
+    "x",
+    "twitter",
+    "posts",
+    "threads",
+    "hooks",
+    "content",
+    "social",
+    "engagement"
+  ]
+}
